@@ -27,6 +27,8 @@ div.well{
   border: 1px solid #6B7278;
   border-radius: 10px;
     background-color: #1FACC8;
+    background-image: url(images/loginorangetile.png);
+     background-repeat:repeat-x;
 }
 
 #logo-container{

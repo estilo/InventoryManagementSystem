@@ -94,6 +94,7 @@
     <Content Include="Accounts\Login.aspx" />
     <Content Include="Customized.css" />
     <Content Include="images\backgroundtile.png" />
+    <Content Include="images\loginorangetile.png" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
