@@ -19,10 +19,10 @@ div.well{
 }
 
 .Absolute-Center.is-Responsive {
-  width: 50%; 
-  height: 50%;
+  width: 55%; 
+  height: 45%;
   min-width: 200px;
-  max-width: 400px;
+  max-width: 500px;
   padding: 40px;
   border: 1px solid #6B7278;
   border-radius: 10px;
